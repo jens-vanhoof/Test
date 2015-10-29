@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jens-vanhoof.github.io/Test/</loc>
+    <loc>http://localhost:1313/Test/</loc>
     <lastmod>2015-10-22T18:46:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jens-vanhoof.github.io/Test/Artikels/Software/GIP_Taak_07/</loc>
+    <loc>http://localhost:1313/Test/Artikels/Software/GIP_Taak_07/</loc>
     <lastmod>2015-10-22T18:46:35+02:00</lastmod>
   </url>
   
