@@ -11,10 +11,10 @@
     
     <item>
       <title>GIP_Taak_07</title>
-      <link>http://jens-vanhoof.github.io/Test/Artikels/Software/GIP_Taak_07/</link>
+      <link>http://jens-vanhoof.github.io/Test/artikels/software/GIP_Taak_07/</link>
       <pubDate>Thu, 22 Oct 2015 18:46:35 +0200</pubDate>
       
-      <guid>http://jens-vanhoof.github.io/Test/Artikels/Software/GIP_Taak_07/</guid>
+      <guid>http://jens-vanhoof.github.io/Test/artikels/software/GIP_Taak_07/</guid>
       <description>
 
 &lt;h1 id=&#34;hugo-vs-wordpress:e12a4ef27342a56a1ab334ac45819bd3&#34;&gt;Hugo VS Wordpress&lt;/h1&gt;
@@ -42,17 +42,17 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Gitlab&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;right-aligned&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://gitlab.com/jens-vanhoof/GIP&#34;&gt;https://gitlab.com/jens-vanhoof/GIP&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Github&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;centered&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/jens-vanhoof/GIP&#34;&gt;https://github.com/jens-vanhoof/GIP&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;Public&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;are neat&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://jens-vanhoof.github.io/GIP/&#34;&gt;http://jens-vanhoof.github.io/GIP/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
